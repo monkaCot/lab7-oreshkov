@@ -1,0 +1,7 @@
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\oresh\OneDrive\Desktop\lab7-oreshkov\src\lab7\lab7\obj\Debug\lab7.pdb
